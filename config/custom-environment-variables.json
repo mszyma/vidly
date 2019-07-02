@@ -1,4 +1,5 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "passMario": "vidly_passMario"
+  "passMario": "vidly_passMario",
+  "db": "vidly_db"
 }
